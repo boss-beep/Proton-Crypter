@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Proton Crypter", "Proton Crypter.vbproj", "{8BF19BF6-B3DA-4762-9FAD-98D5E0C8D97F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BF19BF6-B3DA-4762-9FAD-98D5E0C8D97F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF19BF6-B3DA-4762-9FAD-98D5E0C8D97F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF19BF6-B3DA-4762-9FAD-98D5E0C8D97F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF19BF6-B3DA-4762-9FAD-98D5E0C8D97F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBA438BD-4C5B-445A-BCF0-F75A4DE8A211}
+	EndGlobalSection
+EndGlobal
