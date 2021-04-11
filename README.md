@@ -19,6 +19,10 @@ Obfuscator (Arithmetic) KoiVM Virtualization Hide File CodeDom - v2.0, v3.5, v4.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 DISCLAIMER:We do not take any responsibility for this tool usage in the malicious purposes. It is free, open-source and provided      AS-IS for everyone.                           
 
+You can compile the apk or simply use the compiled exe
 Add direct links when sharing code.
 
 DON'T FORGET TO LEAVE A STAR.
+
+
+The Genius behind the Crypter repo:@ github.com/razordeveloper/proton-crypter && @ theprotonprotector.com
