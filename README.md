@@ -19,5 +19,6 @@ Obfuscator (Arithmetic) KoiVM Virtualization Hide File CodeDom - v2.0, v3.5, v4.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 DISCLAIMER:We do not take any responsibility for this tool usage in the malicious purposes. It is free, open-source and provided      AS-IS for everyone.                           
 
-And a Mention when using the code.
+Add direct links when sharing code.
+
 DON'T FORGET TO LEAVE A STAR.
